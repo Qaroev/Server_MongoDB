@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ImageMeta>
+    <ContentInfo knownLanguage="eng" languageId="LA.7AED6901-3766-D17E-EDEB-5109F1798C82" learningLanguage="prs"
+                 projectId="E96E2AB5-8C48-6AB5-85A3-5109F176BA26"/>
+    <ImageParcels>
+        <ImageParcel depthRes="0" fileFormat="jpg" heightRes="167"
+                     pathName="IP.7FA3C3A6-A433-327F-1D08-510A5429827C.jpg" widthRes="250"/>
+        <ImageParcel depthRes="0" fileFormat="png" heightRes="537"
+                     pathName="IP.810547F5-949B-3A6C-8FAF-1DE475309F91.png" widthRes="807"/>
+        <ImageParcel depthRes="0" fileFormat="jpg" heightRes="179"
+                     pathName="IP.ABC375D3-899B-7D78-3CE9-510A796B68A3.jpg" widthRes="250"/>
+        <ImageParcel depthRes="0" fileFormat="jpg" heightRes="166"
+                     pathName="IP.E63750B6-5D72-B6A8-2B83-510A6B3A148B.jpg" widthRes="250"/>
+    </ImageParcels>
+    <Credits>
+        <Credit copyright="" date="Sun Dec 23 2018 05:00:00 GMT+0500 (??????????, ??????????? ?????)"
+                id="CC.15405ACA-D9E7-7C9C-4B14-1DE47534FC6C"/>
+    </Credits>
+    <Images>
+        <ImageInfo credit="" id="" languageSpecific="false" length="10836" offset="0"
+                   parcelId="IP.ABC375D3-899B-7D78-3CE9-510A796B68A3"
+                   phraseId="PH.64E966EE-C235-CA20-54B7-510A74C6E7BE"/>
+        <ImageInfo credit="" id="" languageSpecific="false" length="8308" offset="0"
+                   parcelId="IP.7FA3C3A6-A433-327F-1D08-510A5429827C"
+                   phraseId="PH.7B5520B9-8BC3-E377-4642-510A4E907645"/>
+        <ImageInfo credit="CC.15405ACA-D9E7-7C9C-4B14-1DE47534FC6C" id="" languageSpecific="false" length="60075"
+                   offset="0" parcelId="IP.810547F5-949B-3A6C-8FAF-1DE475309F91"
+                   phraseId="PH.7B5520B9-8BC3-E377-4642-510A4E907645"/>
+        <ImageInfo credit="" id="" languageSpecific="false" length="8392" offset="0"
+                   parcelId="IP.E63750B6-5D72-B6A8-2B83-510A6B3A148B"
+                   phraseId="PH.B1FD4B66-72E9-16ED-457A-510A66F045CD"/>
+    </Images>
+</ImageMeta>

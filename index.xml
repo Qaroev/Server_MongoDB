@@ -1,0 +1,19 @@
+<ImageMeta>
+    <ContentInfo knownLanguage="eng" languageId="LA.D86F657A-F66A-1381-8894-529CA72336A2" learningLanguage="afr"
+                 projectId="0B9EB676-005A-F648-0B44-529E1E4B681E"/>
+    <ImageParcels>
+        <ImageParcel fileFormat="png" heightRes="20" pathName="IP.28A12A24-8E28-57C2-4AE1-529E9B2F65A9.png"
+                     widthRes="20" depthRes="20"/>
+        <ImageParcel fileFormat="png" heightRes="20" pathName="IP.4998960D-F999-EBC2-CC39-52A042A8D355.png"
+                     widthRes="20" depthRes="20"/>
+    </ImageParcels>
+    <Credits/>
+    <Images>
+        <ImageInfo id="IP.28A12A24-8E28-57C2-4AE1-529E9B2F65A9" languageSpecific="true"
+                   parcelId="IP.28A12A24-8E28-57C2-4AE1-529E9B2F65A9" credit="" offset="0" length="0"
+                   phraseId="PH.D1700782-A382-7FA2-BC70-529E31574159"/>
+        <ImageInfo id="IP.4998960D-F999-EBC2-CC39-52A042A8D355" languageSpecific="true"
+                   parcelId="IP.4998960D-F999-EBC2-CC39-52A042A8D355" credit="" offset="0" length="0"
+                   phraseId="PH.3393342E-D3CE-5E56-9EA2-529FBA46F31D"/>
+    </Images>
+</ImageMeta>
